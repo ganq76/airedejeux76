@@ -1,0 +1,45 @@
+Politique de Confidentialité - SJE - Échecs Suivi Connect
+
+Dernière mise à jour : 31/03/2026
+
+L'application SJE - Échecs Suivi Connect est fournie en tant que service gratuit, financé par la publicité. Cette page a pour but d'informer les utilisateurs de nos politiques concernant la collecte, l'utilisation et la divulgation des informations personnelles.
+1. Collecte et utilisation des informations
+
+Pour une meilleure expérience, nous ne collectons aucune donnée nominative directe (nom, adresse, email) sur nos serveurs.
+
+    Données de navigation : L'application utilise la bibliothèque Jsoup pour extraire des informations publiques depuis les sites officiels de tournois. Aucune donnée personnelle n'est envoyée à ces sites.
+
+    Données locales : Vos joueurs favoris et identifiants de tournois sont stockés exclusivement sur votre appareil via SharedPreferences. Ces données ne quittent jamais votre téléphone.
+
+2. Services tiers et Publicité (AdMob)
+
+Pour maintenir la gratuité du service et assurer l'entretien de nos serveurs, l'application utilise Google AdMob pour afficher des annonces.
+
+    Identifiants publicitaires : AdMob peut collecter et utiliser des identifiants publicitaires anonymes de votre appareil pour diffuser des annonces pertinentes (publicité ciblée).
+
+    Données collectées par des tiers : Google peut collecter des données techniques (modèle de téléphone, version d'Android) pour optimiser l'affichage des publicités.
+
+    Lien vers la politique de tiers : Politique de confidentialité de Google AdMob
+
+3. Accès au réseau et services d'arrière-plan
+
+L'application nécessite un accès à Internet pour :
+
+    Récupérer la liste des participants et mettre à jour les scores.
+
+    Charger les contenus publicitaires nécessaires au financement du service.
+
+    WorkManager : Un service d'arrière-plan vérifie périodiquement les mises à jour pour vous envoyer des notifications locales.
+
+4. Cookies et Consentement (RGPD)
+
+Nous n'utilisons pas de cookies propres. Cependant, pour les utilisateurs situés dans l'Espace Économique Européen (EEE), un message de consentement s'affiche au premier lancement pour vous permettre de choisir si vous acceptez les publicités personnalisées, conformément au RGPD.
+5. Sécurité
+
+Nous accordons une grande importance à la protection de vos données locales. Bien que nous n'hébergions aucune donnée personnelle sur des serveurs privés, nous vous rappelons qu'aucune méthode de transmission sur Internet n'est sûre à 100 %.
+6. Modifications de cette politique
+
+Nous mettons à jour cette politique pour refléter les évolutions techniques de l'application. Il vous est conseillé de consulter cette page périodiquement.
+7. Nous contacter
+
+Pour toute question : airedejeux76@gmail.com
